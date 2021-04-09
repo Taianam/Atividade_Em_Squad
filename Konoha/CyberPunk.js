@@ -1,4 +1,13 @@
+//Requisitos para rodar cyberpunk NO PC
+//Perguntar a memória ram do PC, sendo que menor que 8Gb, o jogo não consegue rodar e acima de 16 ele roda em 4k
+//Perguntar o armazenamento, tem que ser maior de 70, se não, não roda
+//Verificar se o DIRECTX é o 12 ou não
+//Verificar se a placa de vídeo é equivalente ou superior a: Nvidia GeForce GTX 780 3GB ou AMD Radeon RX 470
+// ** EM CASO DE RESPOSTAS NEGATIVAS, no final do programa apresentar os problemas para ele não rodar;
+// ** EM CASO DE TODAS AS RESPOSTAS POSITIVAS, no final do programa apresentar mostrar que o PC roda o jogo.
 //Requisitos para rodar cyberpunk
+
+
 const ler = require("prompt-sync")();
 console.log(" ===== REQUISITOS PARA CYBERPUNK 2077 ===== ")
 var ram = Number(ler("Qual é a sua memória ram?"));
