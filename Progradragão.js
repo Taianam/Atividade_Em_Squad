@@ -23,7 +23,7 @@ if (arma == "1") {
     console.log("Você MATOU o PROGRADRAGÃO.");
     console.log("Parabéns, você ganhou o jogo!");
     
-} else if (arma !="1"){
+} else {
     arma = ler ("Escolha errada, você tem mais uma chance tente novamente!");
 
     if (arma=="1") {
