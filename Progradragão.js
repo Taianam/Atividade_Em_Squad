@@ -34,4 +34,3 @@ if (arma == "1") {
     else  
     console.log("ESCOLHA ERRADA "+nome+ "\n GAME OVER");
 }
-
