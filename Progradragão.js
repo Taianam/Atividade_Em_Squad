@@ -15,7 +15,7 @@ console.log("████████████████████▀▀"
 console.log("Aqui você vera um mundo completamente diferente!");
 console.log("Você está quase no final do jogo, só falta matar o dragão!");
 console.log("Lembre-se só existe apenas uma resposta correta, você terá duas chances!");
-console.log("Qual arma você escolhe para martar o dragão?");
+console.log("Qual arma você escolhe para matar o dragão?");
 var arma= ler("DGITE 1 = Espada, DIGITE 2 = Faca, DIGITE 3= Sapato");
 
 
