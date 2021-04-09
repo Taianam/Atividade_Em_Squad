@@ -1,0 +1,16 @@
+{
+  "name": "squad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "catracaDeOnibus.js",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "sync": "^0.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
